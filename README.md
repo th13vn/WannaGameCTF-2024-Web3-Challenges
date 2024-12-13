@@ -6,8 +6,8 @@ Start: Fri, 13 Dec. 2024, 08:00 ICT
 End: Sat, 14 Dec. 2024, 08:00 ICT
 ```
 
-| Name        | Contract                                                     | Solution | Author                                    |
-| ----------- | ------------------------------------------------------------ | -------- | ----------------------------------------- |
-| Basic Vault | <a href="contracts/CallMeByYourName/Setup.sol">Setup.sol</a> |          | <a href="https://x.com/th13vn">@th13vn<a> |
+| Name                 | Contract                                                     | Solution | Author                                    |
+| -------------------- | ------------------------------------------------------------ | -------- | ----------------------------------------- |
+| Call Me By Your Name | <a href="contracts/CallMeByYourName/Setup.sol">Setup.sol</a> |          | <a href="https://x.com/th13vn">@th13vn<a> |
 
 ![alt text](image.png)
