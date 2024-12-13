@@ -14,6 +14,6 @@ contract Setup {
     }
 
     function isSolved() external view returns (bool) {
-        return coin.balanceOf(msg.sender) > 10_000 * 10 ** coin.decimals();
+        return coin.balanceOf(address(coin)) > 10_000 * 10 ** coin.decimals();
     }
 }
